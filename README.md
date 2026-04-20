@@ -1,8 +1,6 @@
-# Earthquake-Damage-Prediction
+# 🌍 Earthquake-Damage-Prediction
 
 ---
-
-# 🌍 Earthquake Damage Prediction
 
 ## 📊 Overview
 
