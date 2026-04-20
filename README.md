@@ -54,4 +54,3 @@ A machine learning model is built to predict damage levels:
 
 ---
 
-If needed, can make it even **shorter (1-page recruiter style)** or add **GitHub badges** 👍
